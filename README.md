@@ -1,9 +1,9 @@
-👋 Hi, I’m @akxsha. I am a Data Engineer and part time Data Scientist working to solve Supply Chain problems. I’m interested in big data and data science.
+👋 Hi, I’m @akxsha. I am a Data Strategist and former Data Engineer working to solve big data problems in finance. After work, I build on the blockchain. 
 
-🌱 I’m currently creating my own website to gain full automomy of data storytelling.
-I’m looking to collaborate on any projects that strengthen my Julia, R, and Python skills.
+🌱 I write scripts and build smart contracts.
+I write in Solidity, JavaScript, Python, and quite a bit of SQL. I also have experience in Java, R, and Julia.
 
-📫 You can reach me via LinkedIn at https://www.linkedin.com/in/akasha-stallworth-75a458160/
+📫 You can find me on LinkedIn at https://www.linkedin.com/in/akasha-stallworth-75a458160/
 
 
 <!---
